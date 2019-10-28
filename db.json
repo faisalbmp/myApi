@@ -12,6 +12,6 @@
     "name": "nanya"
   },
   "todo": [
-    {"id":1, "name": "task1","date": "28/10/2019"}
+    {"id": 1, "name": "task1","date": "28/10/2019"}
   ]
 }
